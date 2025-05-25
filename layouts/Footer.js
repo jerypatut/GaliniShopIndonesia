@@ -1,0 +1,5 @@
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+const Footer = () => {
+    return (_jsx("footer", { className: "bg-gray-800 text-gray-300 py-6 mt-auto", children: _jsxs("div", { className: "max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center", children: [_jsx("p", { className: "text-sm", children: "\u00A9 2025 Marketplace. All rights reserved." }), _jsxs("div", { className: "flex space-x-6 mt-4 md:mt-0", children: [_jsx("a", { href: "https://facebook.com", target: "_blank", rel: "noopener noreferrer", "aria-label": "Facebook", className: "hover:text-blue-500 transition-colors", children: "Facebook" }), _jsx("a", { href: "https://twitter.com", target: "_blank", rel: "noopener noreferrer", "aria-label": "Twitter", className: "hover:text-blue-400 transition-colors", children: "Twitter" }), _jsx("a", { href: "https://instagram.com", target: "_blank", rel: "noopener noreferrer", "aria-label": "Instagram", className: "hover:text-pink-500 transition-colors", children: "Instagram" })] })] }) }));
+};
+export default Footer;

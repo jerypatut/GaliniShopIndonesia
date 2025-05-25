@@ -1,0 +1,5 @@
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+function Product() {
+    return (_jsx("div", { className: "min-h-screen bg-gray-100 py-6 px-4 sm:px-6 lg:px-8", children: _jsxs("div", { className: "max-w-7xl mx-auto bg-white p-8 rounded-lg shadow-lg", children: [_jsx("h1", { className: "text-4xl font-extrabold text-blue-600 mb-4", children: "Product" }), _jsx("p", { className: "text-lg text-gray-700 mb-4", children: "Selamat datang di halaman produk kami!" }), _jsx("p", { className: "text-lg text-gray-700 mb-6", children: "Berikut adalah daftar produk yang tersedia:" }), _jsxs("ul", { className: "space-y-2 text-lg text-gray-800", children: [_jsx("li", { className: "hover:text-blue-500 transition-colors", children: "Produk 1" }), _jsx("li", { className: "hover:text-blue-500 transition-colors", children: "Produk 2" }), _jsx("li", { className: "hover:text-blue-500 transition-colors", children: "Produk 3" })] }), _jsx("p", { className: "text-lg text-gray-700 mt-6", children: "Silakan pilih produk yang Anda inginkan." })] }) }));
+}
+export default Product;
