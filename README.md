@@ -1,5 +1,5 @@
 React + TypeScript + Vite — Marketplace Frontend App
-Demo app: https://jerypatut.github.io/
+Demo app: https://jerypatut.github.io
 
 Short Description
 This template provides a minimal setup for developing a marketplace frontend app using React with TypeScript and Vite as the build tool.
